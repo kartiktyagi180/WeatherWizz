@@ -1,3 +1,3 @@
-# app_mine
+# WeatherWizz
 
-A new Flutter project.
+A weather application.
