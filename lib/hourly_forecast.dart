@@ -28,7 +28,7 @@ class HourlyForecastItems extends StatelessWidget {
                                  const SizedBox(width: 00, height: 2),
                                    Icon(icon, size: 30, color: Colors.white),
                                   const SizedBox(width: 00, height: 6),
-                                  Text(temp, style: const TextStyle(color:  Colors.white, fontSize: 17),), 
+                                  Text('$temp K', style: const TextStyle(color:  Colors.white, fontSize: 17),), 
                     ]
                      ),
                  )
